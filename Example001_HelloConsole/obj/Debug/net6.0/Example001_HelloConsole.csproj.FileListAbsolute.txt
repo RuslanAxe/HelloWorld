@@ -1,0 +1,15 @@
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\Examples\Examples\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
